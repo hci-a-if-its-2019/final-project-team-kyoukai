@@ -8,7 +8,7 @@ Subject: [javatpoint.com](javatpoint.com)
 First Impression:
   1. The homepage is bulky
   2. Overwhelming informations
-  3. No search bar
+  3. No internal search bar
   4. 
   
 Plan:
