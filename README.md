@@ -65,3 +65,5 @@ B: Participant
 
 (Participant refers to how the tutorials are clustered according to spesific/scientific terms, and not to layman's terms. Thus, she suggest to cluster the tutorials according to layman's terms and categories.)
 ```
+
+![Artifact Model 1]
