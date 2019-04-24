@@ -66,4 +66,5 @@ B: Participant
 (Participant refers to how the tutorials are clustered according to spesific/scientific terms, and not to layman's terms. Thus, she suggest to cluster the tutorials according to layman's terms and categories.)
 ```
 
+##Artifact Model 1
 ![Artifact Model 1](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/Artifact_Flow_1.png)
