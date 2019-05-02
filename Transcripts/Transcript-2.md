@@ -2,8 +2,8 @@ Participant description:
 - Male
 - Around 20 years old
 - College student
-- Have visited programming tutorial sites in the past
-- Spends a lot of his times on the internet
+- Have visited many programming tutorial sites in the past
+- Spends most of his times on the internet
 
 A: Me 
 B: Participant
