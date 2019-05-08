@@ -68,3 +68,7 @@ B: Participant
 
 ### Artifact Model 1
 ![Artifact Model 1](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/Artifact_Flow_1.png)
+
+
+## Sketch
+![Sketch 1](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/DSC_0004.JPG)
