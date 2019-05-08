@@ -65,7 +65,7 @@ B: Participant
 
 (Participant refers to how the tutorials are clustered according to spesific/scientific terms, and not to layman's terms. Thus, she suggest to cluster the tutorials according to layman's terms and categories.)
 ```
-## Transcript 2
+## Transcript 4
 ```text
 Participant Description:
 1. Participant is a 20 years old man of indonesian origin.
@@ -132,7 +132,7 @@ R: Participant
 (At the end, He vent to me about the web (and the worst one i forgot what he talking about) until his dance practice begin and we parted away)
 ```
 
-## Transcript 3
+## Transcript 5
 ```text
 Participant Description:
 1. Participant is a 17 years old man of indonesian origin.
@@ -182,7 +182,7 @@ B: Participant
 
 (And he Explain me about if the wikipedia shortcut is better than this web shortcut because good-looking and not make him confused.)
 ```
-## Transcript 4
+## Transcript 6
 ```text
 Participant Description:
 1. Participant is a 25 years old man of indonesian origin.
