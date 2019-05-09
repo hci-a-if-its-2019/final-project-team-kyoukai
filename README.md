@@ -18,6 +18,11 @@ Instructions:
 - Search for another language tutorial (Each user may be different)
 - Search for a certain topic in a certain language tutorial (Each user may be different)
 
+Common demography:
+- Users are 17-20 years old of Indonesian origins.
+- Users currently studying in ITS.
+- Users commonly access internet for 10-12 hours a day.
+
 For transcripts please refer to this page: [Transcripts](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/tree/master/Transcripts)
 
 ## Transcript 1 Artifacts
