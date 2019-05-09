@@ -13,6 +13,11 @@ First Impression:
   3. No internal search bar
 
 ## Transcripts
+Instructions:
+- Search for a certain languge tutorial (Each user may be different)
+- Search for another language tutorial (Each user may be different)
+- Search for a certain topic in a certain language tutorial (Each user may be different)
+
 For transcripts please refer to this page: [Transcripts](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/tree/master/Transcripts)
 
 ## Transcript 1 Artifacts
