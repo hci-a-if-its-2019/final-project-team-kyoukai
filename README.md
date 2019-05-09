@@ -17,12 +17,15 @@ For transcripts please refer to this page: [Transcripts](https://github.com/hci-
 ![Artifact Model 1](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/Artifact_Flow_1.png)
 
 ## Transcript 2 Artifacts
-![Artifact Model 2](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Artifact%20Models/Transcript%202-Model%201.jpg)
+![Artifact Model 2](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Models/Transcript%202-Model%201.jpg)
 
-![Artifact Model 3](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Artifact%20Models/Transcript%202-Model%202.jpg)
+![Artifact Model 3](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Models/Transcript%202-Model%202.jpg)
 
 ## Transcript 3 Artifacts
-![Artifact Model 4](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Artifact%20Models/Transcript%203-Model%201.jpg)
+![Artifact Model 4](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Models/Transcript%203-Model%201.jpg)
+
+## Flow Model
+![Flow Model](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Models/flow.png)
 
 ## Sketch
 ### Sketch 1
