@@ -2,6 +2,8 @@
 final-project-team-kyoukai created by GitHub Classroom
 
 Subject: [javatpoint.com](javatpoint.com)
+### System Description
+A website mainly designed for tutorials from many langugages, from older languages all the way to newer ones. There are also many topics that covers programming in general, such as Computer Graphics, Java Interview Questions, and Computer Science. The amount of tutorials supported by this website make it an important resource that many programmer, especially beginners, to try and take a look.
 
 ![javatpoint.com Homepage](javavtpoint.png)
 
