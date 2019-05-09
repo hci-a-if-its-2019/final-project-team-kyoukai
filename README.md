@@ -52,6 +52,16 @@ For transcripts please refer to this page: [Transcripts](https://github.com/hci-
 ### Difference
 Sketch one mainly focus on making the main menu more compact and less bulky, while sketch 2 tried to copy tutorialspoint.com for the main menu.
 
+### Assumptions
+
+- User is familiar with tutorial websites
+- User knows how to operate browsers
+- User understands what they are looking for
+
+### System Requirements
+
+- Anything above 2005 computers.
+
 ## Prototype
 For prototype please download and open the page on the browser.
 [Prototype](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/tree/master/Prototype.html)
