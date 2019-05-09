@@ -37,12 +37,15 @@ For transcripts please refer to this page: [Transcripts](https://github.com/hci-
 ## Cultural Model
 ![Cultural Model](Models/cultural.png)
 
-## Sketch
+## Sketches
 ### Sketch 1
 ![Sketch 1](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/DSC_0004.JPG)
 
 ### Sketch 2
 ![Sketch 2](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/DSC_0002.JPG)
+
+### Difference
+Sketch one mainly focus on making the main menu more compact and less bulky, while sketch 2 tried to copy tutorialspoint.com for the main menu.
 
 ## Prototype
 For prototype please download and open the page on the browser.
