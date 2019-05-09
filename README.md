@@ -41,6 +41,9 @@ For transcripts please refer to this page: [Transcripts](https://github.com/hci-
 ### Sketch 1
 ![Sketch 1](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/DSC_0004.JPG)
 
+### Sketch 2
+![Sketch 2](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/DSC_0002.JPG)
+
 ## Prototype
 For prototype please download and open the page on the browser.
 [Prototype](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/tree/master/Prototype.html)
