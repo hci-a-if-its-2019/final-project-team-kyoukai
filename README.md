@@ -27,6 +27,9 @@ For transcripts please refer to this page: [Transcripts](https://github.com/hci-
 ## Flow Model
 ![Flow Model](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Models/flow.png)
 
+## Cultural Model
+![Cultural Model](Models/cultural.png)
+
 ## Sketch
 ### Sketch 1
 ![Sketch 1](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/DSC_0004.JPG)
