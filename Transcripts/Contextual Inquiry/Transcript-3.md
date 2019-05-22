@@ -1,6 +1,7 @@
+```
 Participant description:
 - Male
-- Around 20 years old
+- Around 18 years old
 - College student
 - Have visited programming tutorial sites once or twice
 - Spends a lot of his times on the internet
@@ -27,3 +28,4 @@ B: Participant
 16. B: Menurutku yang ini keliatan lebih bersih, tapi ikonnya kecil-kecil dan nggak dikelompokin.
 17. A: Menurutmu bagian latest update ini berguna nggak.
 18. B: Mungkin berguna buat yang sering buka situs ini buat tau tutorial baru.
+```
