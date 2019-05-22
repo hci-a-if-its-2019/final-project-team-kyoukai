@@ -1,0 +1,109 @@
+.header input[type=text] {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+    border: 12px;
+    border-color: rgb(6, 192, 78);
+}
+
+.header ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: rgb(6, 192, 78);
+}
+
+.header li {
+float: left;
+margin-left: 7.5%;
+margin-right: 7.5%;
+}
+
+.header li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+.header li a:hover {
+background-color: rgb(35, 150, 96);
+}
+
+h2, h3 {
+    font-family: verdana,helvetica,arial,sans-serif
+}
+
+div.scrollmenu {
+    background-color: #ffffff;
+    overflow: auto;
+    white-space: nowrap;
+  }
+
+div.scrollmenu a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+div.scrollmenu a {
+    color: green;
+    text-decoration: none;
+}
+  
+div.homecontent {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    margin: 2%;
+    padding: 4%;
+    width: 70px;
+    height: 70px;
+    /* display: block; */
+    box-shadow: 6px 5px 29px -6px rgba(0,0,0,0.55);
+  }
+  
+  div.homecontent:hover {
+    background-color: rgb(187, 184, 184);
+  } 
+
+  #main-content {
+      margin-left: 10px;
+      margin-top: 15px;
+      margin-right: 4px;
+      width: 65%;
+      float: left;
+      padding: 10px 15px 10px 15px;
+  }
+
+  #side-content {
+      width: 30%;
+      float: left;
+      margin-left: 20px;
+      margin-top: 0px;
+  }
+
+   #side-content li {
+    padding: .6em;
+    }
+    
+   #side-content li a {
+        color: green;
+        text-decoration: none;
+    }
+    
+    /* Change the link color to #111 (black) on hover */
+   #side-content li a:hover {
+        color: red;
+        text-decoration: underline;
+    }
+
+    #side-content ol {
+        overflow: auto;
+        white-space: nowrap;
+    }
