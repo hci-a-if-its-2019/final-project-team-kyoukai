@@ -100,3 +100,4 @@ Resolution: - Tutorial navbar is now not fixed to the screen<br/>
 ![Sketch 2.0](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/DSC_0002.JPG)
 
 ### Design Rationale
+In our quest to lighten the former website, we cramped the current prototype. It seems that most users, especially beginners, does not like bulky tutorial website, but also does not like website that are practically choking them. There needs to be balance in webpage layout.
