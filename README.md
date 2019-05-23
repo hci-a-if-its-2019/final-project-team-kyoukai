@@ -64,7 +64,7 @@ Sketch one mainly focus on making the main menu more compact and less bulky, whi
 
 ## Prototype
 For prototype please download and open the page on the browser.
-[Prototype](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/tree/master/Prototype.html)
+[Prototype](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/tree/master/Prototype)
 
 
 ## Usability Evaluation
@@ -79,13 +79,12 @@ For transcripts please refer to this page: [Transcripts](https://github.com/hci-
 
 ### Feedback and Incidence Analysis
 #### Observation 1 - Main Menu
-![javatpoint.com Homepage](Images/Main Menu.png)
+![Main Menu](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/Main_Menu.JPG)
 
 #### Observation 2 - Tutorial page
-![javatpoint.com Homepage](Images/Tutorial page.png)
+![Tutorial Page](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/Tutorial_page.JPG)
 
 ## Prototyping 2.0
-### Sketch
-![javatpoint.com Homepage](Images/DSC_004.png)
+![Sketch 2.0](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/DSC_0002.JPG)
 
 ### Design Rationale
