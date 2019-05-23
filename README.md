@@ -88,11 +88,11 @@ Resolution:
 
 #### Observation 2 - Tutorial page
 ![Tutorial Page](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/Tutorial_page.JPG)
-Reference: 
-Feedback: 
-Incidence: 
-Reason: 
-Resolution: 
+Reference: -
+Feedback: -
+Incidence: -
+Reason: -
+Resolution: -
 
 ## Prototyping 2.0
 ![Sketch 2.0](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/DSC_0002.JPG)
