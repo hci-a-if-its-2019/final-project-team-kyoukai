@@ -64,28 +64,37 @@ Sketch one mainly focus on making the main menu more compact and less bulky, whi
 
 ## Prototype
 For prototype please download and open the page on the browser.
-[Prototype](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/tree/master/Prototype.html)
+[Prototype](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/tree/master/Prototype)
 
 
 ## Usability Evaluation
 
 ### Insruction Script
 - Find post #55 from Lates Updates
-- Open MySQL tutorial, a database language
-- Open Linear Algebar, a computer science topic
+- Open Flask tutorial, a database language
+- Open Swift, a computer science topic directly from tutorial page
 
 ### Transcript
 For transcripts please refer to this page: [Transcripts](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/tree/master/Transcripts)
 
 ### Feedback and Incidence Analysis
 #### Observation 1 - Main Menu
+![Main Menu](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/Main_Menu.JPG)
+Reference: 
+Feedback: 
+Incidence:
+Reason:
+Resolution: 
 
 #### Observation 2 - Tutorial page
-
-#### Observation 3 - Tutorial list page
-
+![Tutorial Page](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/Tutorial_page.JPG)
+Reference: 
+Feedback: 
+Incidence: 
+Reason: 
+Resolution: 
 
 ## Prototyping 2.0
-### Sketch
+![Sketch 2.0](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/DSC_0002.JPG)
 
 ### Design Rationale
