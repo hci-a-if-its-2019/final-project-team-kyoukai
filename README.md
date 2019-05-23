@@ -81,8 +81,8 @@ For transcripts please refer to this page: [Transcripts](https://github.com/hci-
 #### Observation 1 - Main Menu
 ![Main Menu](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/Main_Menu.png)
 Reference: T1 line 7, T2 line 6<br/>
-Feedback: Remove shadow from icons, remove horizontal scrolling<br/>
-Incidence: -<br/>
+Feedback: Negative<br/>
+Incidence: Remove shadow from icons, remove horizontal scrolling<br/>
 Reason: -<br/>
 Resolution: -<br/>
 
