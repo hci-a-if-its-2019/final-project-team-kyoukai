@@ -80,19 +80,19 @@ For transcripts please refer to this page: [Transcripts](https://github.com/hci-
 ### Feedback and Incidence Analysis
 #### Observation 1 - Main Menu
 ![Main Menu](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/Main_Menu.png)
-Reference: T1 line 7, T2 line 6
-Feedback: Remove shadow from icons, remove horizontal scrolling
-Incidence: -
-Reason: -
-Resolution: -
+Reference: T1 line 7, T2 line 6<br/>
+Feedback: Remove shadow from icons, remove horizontal scrolling<br/>
+Incidence: -<br/>
+Reason: -<br/>
+Resolution: -<br/>
 
 #### Observation 2 - Tutorial page
 ![Tutorial Page](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/Tutorial_page.png)
-Reference: -
-Feedback: -
-Incidence: -
-Reason: -
-Resolution: -
+Reference: -<br/>
+Feedback: -<br/>
+Incidence: -<br/>
+Reason: -<br/>
+Resolution: -<br/>
 
 ## Prototyping 2.0
 ![Sketch 2.0](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/DSC_0002.JPG)
