@@ -92,7 +92,7 @@ Resolution: List moved down, tutorials are lined up without scrolling, shadows r
 Reference: T4 line 13<br/>
 Feedback: Neutral<br/>
 Incidence: -<br/>
-Suggestions: Un-fixed the tutorial navbar
+Suggestions: Un-fixed the tutorial navbar<br/>
 Reason: -<br/>
 Resolution: - Tutorial navbar is now not fixed to the screen<br/>
 
@@ -101,7 +101,7 @@ Resolution: - Tutorial navbar is now not fixed to the screen<br/>
 Reference: T4 line 13<br/>
 Feedback: Negative<br/>
 Incidence: -<br/>
-Suggestions: Add more objects to the empty spaces.
+Suggestions: Add more objects to the empty spaces.<br/>
 Reason: -<br/>
 Resolution: - Plan to add ads or list, but no resolution currently added<br/>
 
