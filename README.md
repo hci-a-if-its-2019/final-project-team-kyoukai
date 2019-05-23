@@ -80,19 +80,21 @@ For transcripts please refer to this page: [Transcripts](https://github.com/hci-
 ### Feedback and Incidence Analysis
 #### Observation 1 - Main Menu
 ![Main Menu](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/Main_Menu.png)
-Reference: T1 line 7, T2 line 6<br/>
-Feedback: Negative<br/>
-Incidence: Remove shadow from icons, remove horizontal scrolling<br/>
+Reference: T1 line 7, T2 line 6; T4 line 13<br/>
+Feedback: Negative; Somewhat positive<br/>
+Incidence: <br/>
+Suggestions: Remove shadow from icons, remove horizontal scrolling; Move the list down<br/>
 Reason: -<br/>
-Resolution: -<br/>
+Resolution: List moved down, tutorials are lined up without scrolling, shadows removed<br/>
 
 #### Observation 2 - Tutorial page
 ![Tutorial Page](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/Tutorial_page.png)
-Reference: -<br/>
-Feedback: -<br/>
+Reference: T4 line 13<br/>
+Feedback: Neutral<br/>
 Incidence: -<br/>
+Suggestions: Un-fixed the tutorial navbar
 Reason: -<br/>
-Resolution: -<br/>
+Resolution: - Tutorial navbar is now not fixed to the screen<br/>
 
 ## Prototyping 2.0
 ![Sketch 2.0](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/DSC_0002.JPG)
