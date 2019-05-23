@@ -96,6 +96,15 @@ Suggestions: Un-fixed the tutorial navbar
 Reason: -<br/>
 Resolution: - Tutorial navbar is now not fixed to the screen<br/>
 
+#### Observation 2 - Tutorial page
+![Tutorial Page](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/List_page.png)
+Reference: T4 line 13<br/>
+Feedback: Negative<br/>
+Incidence: -<br/>
+Suggestions: Add more objects to the empty spaces.
+Reason: -<br/>
+Resolution: - Plan to add ads or list, but no resolution currently added<br/>
+
 ## Prototyping 2.0
 ![Sketch 2.0](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/DSC_0002.JPG)
 
