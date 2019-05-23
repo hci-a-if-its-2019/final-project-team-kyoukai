@@ -79,22 +79,25 @@ For transcripts please refer to this page: [Transcripts](https://github.com/hci-
 
 ### Feedback and Incidence Analysis
 #### Observation 1 - Main Menu
-![Main Menu](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/Main_Menu.JPG)
-Reference: 
-Feedback: 
-Incidence:
-Reason:
-Resolution: 
+![Main Menu](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/Main_Menu.png)
+Reference: T1 line 7, T2 line 6; T4 line 13<br/>
+Feedback: Negative; Somewhat positive<br/>
+Incidence: <br/>
+Suggestions: Remove shadow from icons, remove horizontal scrolling; Move the list down<br/>
+Reason: -<br/>
+Resolution: List moved down, tutorials are lined up without scrolling, shadows removed<br/>
 
 #### Observation 2 - Tutorial page
-![Tutorial Page](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/Tutorial_page.JPG)
-Reference: 
-Feedback: 
-Incidence: 
-Reason: 
-Resolution: 
+![Tutorial Page](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/Tutorial_page.png)
+Reference: T4 line 13<br/>
+Feedback: Neutral<br/>
+Incidence: -<br/>
+Suggestions: Un-fixed the tutorial navbar
+Reason: -<br/>
+Resolution: - Tutorial navbar is now not fixed to the screen<br/>
 
 ## Prototyping 2.0
 ![Sketch 2.0](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/blob/master/Images/DSC_0002.JPG)
 
 ### Design Rationale
+In our quest to lighten the former website, we cramped the current prototype. It seems that most users, especially beginners, does not like bulky tutorial website, but also does not like website that are practically choking them. There needs to be balance in webpage layout.
