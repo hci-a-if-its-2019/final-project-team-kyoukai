@@ -71,21 +71,21 @@ For prototype please download and open the page on the browser.
 
 ### Insruction Script
 - Find post #55 from Lates Updates
-- Open MySQL tutorial, a database language
-- Open Linear Algebar, a computer science topic
+- Open Flask tutorial, a database language
+- Open Swift, a computer science topic directly from tutorial page
 
 ### Transcript
 For transcripts please refer to this page: [Transcripts](https://github.com/hci-a-if-its-2019/final-project-team-kyoukai/tree/master/Transcripts)
 
 ### Feedback and Incidence Analysis
 #### Observation 1 - Main Menu
+![javatpoint.com Homepage](Images/Main Menu.png)
 
 #### Observation 2 - Tutorial page
-
-#### Observation 3 - Tutorial list page
-
+![javatpoint.com Homepage](Images/Tutorial page.png)
 
 ## Prototyping 2.0
 ### Sketch
+![javatpoint.com Homepage](Images/DSC_004.png)
 
 ### Design Rationale
